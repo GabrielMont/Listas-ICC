@@ -1,7 +1,6 @@
 inp = int(input())
-
 if inp % 2 == 0:
-    print(inp, 'eh par')
+    print(inp, 'é par')
 else:
-    print(inp, 'eh impar')
+    print(inp, 'é impar')
 print(inp + 2)
